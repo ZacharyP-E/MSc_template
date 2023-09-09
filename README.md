@@ -5,14 +5,14 @@ This repository contains a branded reusable dissertation template for CASA stude
 ## File Structure
 
 
-
+'''
 dissertation_template/
 ├── dissertation.md        # Main markdown file for the dissertation
 ├── dissertation.pdf        # Output file
 ├── tex/                   # LaTeX-specific files
 │   └── abstract.tex       # LaTeX file for the abstract
 └── img/                   # Image resources for title and cover pages
-
+'''
 
 
 
