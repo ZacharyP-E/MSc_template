@@ -5,7 +5,7 @@ This repository contains a branded reusable dissertation template for CASA stude
 ## File Structure
 
 
-'''
+'''python
 dissertation_template/
 ├── dissertation.md        # Main markdown file for the dissertation
 ├── dissertation.pdf        # Output file
